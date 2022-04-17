@@ -1,7 +1,7 @@
 # Taichi Voxel Challenge
 
 ## Disclaimer
-** Being a gameholic for almost 2 decades, my crafts are largely inspired by
+**Being a gameholic for almost 2 decades, my crafts are largely inspired by
 the great (video) games and/or animations from differnt cultures, and I appreciate them.
 If you think they have infringements concerns that directly or indirectly affect you, or
 your patents, please let me know through the `Github Issues` and I will take proper 
@@ -9,7 +9,20 @@ actions ASAP.**
 
 ## Gallery
 
-To be added.
+What I got at the end within 99 lines of code (in screenshots, not rendered outputs):
+
+![](./assets/1.png)
+
+![](./assets/2.png)
+
+![](./assets/3.png)
+
+
+### Initial Iterations
+
+What I got in 40 mins:
+
+![](./assets/inital.png)
 
 ## Installation
 
