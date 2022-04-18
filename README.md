@@ -11,11 +11,11 @@ actions ASAP.**
 
 What I got at the end within 99 lines of code (in screenshots, not rendered outputs):
 
-![](./assets/1.png)
+![](./assets/1.jpg)
 
-![](./assets/2.png)
+![](./assets/2.jpg)
 
-![](./assets/3.png)
+![](./assets/3.jpg)
 
 
 ### Initial Iterations
